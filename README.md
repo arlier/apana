@@ -10,3 +10,8 @@ python check
 - paper: final files for publish
 - rawdata: the binary file from DAQ
 - analysis: codes and intermedia results
+
+## others
+The datataking details are recorded in the file  `DataTakingNotes.md`
+
+An previous version of analysis program(from ChenYu) is put in anabak. 
