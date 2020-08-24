@@ -6,7 +6,7 @@ after pulse analysis
 python check
 
 ## structure
-docs: the document folder
-paper: final files for publish
-rawdata: the binary file from DAQ
-analysis: codes and intermedia results
+- docs: the document folder
+- paper: final files for publish
+- rawdata: the binary file from DAQ
+- analysis: codes and intermedia results
