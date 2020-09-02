@@ -11,7 +11,9 @@ python check
 - rawdata: the binary file from DAQ
 - analysis: codes and intermedia results
 
+## the results root file
+For each PMT, a root files contains the AP information will be generated.
+
 ## others
 The datataking details are recorded in the file  `DataTakingNotes.md`
-
 An previous version of analysis program(from ChenYu) is put in anabak. 
